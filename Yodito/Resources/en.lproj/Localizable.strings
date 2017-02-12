@@ -1,0 +1,105 @@
+
+"All Notes {Title}" = "All Notes";
+"Starred {Title}" = "Shortcuts";
+"Photos {Title}" = "Photos";
+"Settings {Title}" = "Settings";
+"Notebooks {Title}" = "Notebooks";
+"Error {Title}" = "Error";
+"Signing out {Title}" = "Signing out";
+"Yes {Button}" = "Yes";
+"Cancel {Button}" = "Cancel";
+"OK {Button}" = "OK";
+"Save {Button}" = "Save";
+"Delete {Button}" = "Delete";
+"No {Button}" = "No";
+"Done {Button}" = "Done";
+"Edit {Button}" = "Edit";
+"Remove {Button}" = "Remove";
+"Close {Button}" = "Close";
+"Search {Button}" = "Search";
+"Reload {Button}" = "Reload";
+"Signing In {Title}" = "Signing in";
+"Registration in process {Title}" = "Registration in process";
+"All Notebooks" = "All Notebooks";
+"Please enter notebook name." = "Please enter notebook name.";
+"Remove Pin" = "Remove Pin";
+"Location" = "Location";
+"Could not find location." = "Could not find location.";
+"Use this location" = "Use this location";
+"Use My Location" = "Use My Location";
+"Search / Map" = "Search / Map";
+"Getting current location" = "Getting current location";
+"Photo" = "Photo";
+"None" = "None";
+"Tags" = "Tags";
+"All Notebooks" = "All Notebooks";
+"Notes" = "Notes";
+"Unable to view file" = "Unable to view file";
+"This file type cannot be viewed." = "This file type cannot be viewed.";
+"Synchronization failure. This may be due to a network problem or service maintenance." = "Synchronization failure. This may be due to a network problem or service maintenance.";
+"Sync on WiFi only" = "Sync on WiFi only";
+"Auto add location" = "Auto add location";
+"Report a problem" = "Report a problem";
+"Synchronize now" = "Sync Now";
+"Last Synchronized:" = "Last Synchronized:";
+"Report a problem: iOS v.%@ b.%@" = "Report a problem: iOS v.%@ b.%@";
+"Are you sure you want to sign out?" = "Are you sure you want to sign out?";
+"Sign In" = "Sign In";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Email" = "Email";
+"Password" = "Password";
+"Please enter First Name." = "Please enter First Name.";
+"Please enter Last Name." = "Please enter Last Name.";
+"Please enter a valid email address." = "Please enter a valid email address.";
+"Please enter Password." = "Please enter Password.";
+"Sign In Failed" = "Sign In Failed";
+"Registration Failed" = "Registration Failed";
+"Please enter your email and password." = "Please enter your email and password.";
+"Loading..." = "Loading...";
+"Choose From Library" = "Choose From Library";
+"Saving" = "Saving";
+"Opening" = "Opening";
+"Choose Wallpaper" = "Choose Wallpaper";
+"Create Account" = "Create Account";
+"Forgot Password" = "Forgot Password";
+
+"Sign out" = "Sign out";
+//"Tag" = "Tag";
+"Remove Tag" = "Remove Tag";
+
+"Find a tag {Placeholder}" = "Find a tag";
+"Find or create notebook {Placeholder}" = "Find or create notebook";
+
+"Your Current Location is Unavailable" = "Your Current Location is Unavailable";
+"GPS Location Services are Unavailable" = "GPS Location Services are Unavailable";
+"Take Photo" = "Take Photo";
+"Rate on App Store" = "Rate on App Store";
+"Reset Password" = "Reset Password";
+"Reset password instructions sent" = "Reset password instructions sent";
+"Please check your email and follow the instructions to reset your password" = "Please check your email and follow the instructions to reset your password";
+"All.Notes for Mac is available to purchase on the Mac App Store" = "All.Notes for Mac is available to purchase on the Mac App Store";
+"Synchronization failure. This may be due to a network problem or service maintenance."="Synchronization failure. This may be due to a network problem or service maintenance.";
+"Incorrect username or password" = "Incorrect username or password";
+"An account with this email address already exists." = "An account with this email address already exists.";
+"View attachments" = "View attachments";
+
+"Note" = "Note";
+"Location services have not been enabled! Update your settings." = "Location services have not been enabled! Update your settings.";
+"Location services have not been authorized for this app! Update your privacy settings." = "Location services have not been authorized for this app! Update your privacy settings.";
+"Untitled Note" = "Untitled note";
+
+"Reset password instructions sent!" = "Reset password instructions sent!";
+"Please check your email and follow the instructions to reset your password" = "Please check your email and follow the instructions to reset your password";
+"An account lets you sync your notes across iPhone and Mac and provides secure cloud backup" = "An account lets you sync your notes across iPhone and Mac and provides secure cloud backup.";
+
+"authentication failure" = "authentication failure";
+"Synchronization failure. This may be due to a network problem or service maintenance." = "Synchronization failure. This may be due to a network problem or service maintenance.";
+"Could not process your request. try again" = "Could not process your request. try again";
+"Synchronization failure. This may be due to a network problem or service maintenance. {web error}" = "Synchronization failure. This may be due to a network problem or service maintenance.";
+"Invalid argument" = "Invalid argument";
+
+
+
+
+

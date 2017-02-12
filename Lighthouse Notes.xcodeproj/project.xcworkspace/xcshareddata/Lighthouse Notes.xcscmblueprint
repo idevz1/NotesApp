@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3E6376A4DA9F86BABE795051235245A33C364A0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B74136015E35443E15BFA0F5A0A2C3961DC0234" : 9223372036854775807,
+    "3E6376A4DA9F86BABE795051235245A33C364A0B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4AA56027-441A-44B0-94CE-3D76152B9935",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B74136015E35443E15BFA0F5A0A2C3961DC0234" : "..",
+    "3E6376A4DA9F86BABE795051235245A33C364A0B" : "ios-ipad%202\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Lighthouse Notes",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Yodito\/Lighthouse Notes.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/idevz1\/siwsh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B74136015E35443E15BFA0F5A0A2C3961DC0234"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Notes\/ios-ipad.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E6376A4DA9F86BABE795051235245A33C364A0B"
+    }
+  ]
+}
